@@ -1,0 +1,11 @@
+../Core/Src/PN532.c:18:6:delayPN	2
+../Core/Src/PN532.c:27:6:PN532_SS_LOW	1
+../Core/Src/PN532.c:36:6:PN532_SS_HIGH	1
+../Core/Src/PN532.c:49:6:sendCommand	2
+../Core/Src/PN532.c:90:6:PN532_readACK	7
+../Core/Src/PN532.c:136:6:PN532_readResponse	17
+../Core/Src/PN532.c:217:6:checkStatus	3
+../Core/Src/PN532.c:239:6:PN532_scanForTag	10
+../Core/Src/PN532.c:309:6:delayPN_ms	2
+../Core/Src/PN532.c:328:6:read_SPIcontrol_register	6
+../Core/Src/PN532.c:373:6:write_SPIcontrol_register	2

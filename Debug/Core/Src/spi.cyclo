@@ -1,0 +1,6 @@
+../Core/Src/spi.c:15:6:initSPI	1
+../Core/Src/spi.c:52:9:transferSPI8	3
+../Core/Src/spi.c:73:10:transferSPI16	3
+../Core/Src/spi.c:95:9:spi_exchange	3
+../Core/Src/spi.c:121:6:waitForByte_USART2	2
+../Core/Src/spi.c:133:6:delaySPI	2

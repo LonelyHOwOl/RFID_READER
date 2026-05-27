@@ -1,0 +1,3 @@
+../Core/Src/auth.c:15:6:add_uid	6
+../Core/Src/auth.c:47:6:is_uid_authorized	5
+../Core/Src/auth.c:69:6:remove_uid	6
